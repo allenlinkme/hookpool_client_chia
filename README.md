@@ -1,4 +1,4 @@
-# hookpool_client
+# hookpool_client_chia
 Create a fair and just mining pool for chia
 创建一个公平，公正的chia矿池
 ## hookpool的目标
