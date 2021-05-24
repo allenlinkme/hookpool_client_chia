@@ -41,3 +41,6 @@ xch1azy95ut4we8n4afqk35637c6el3vrklhuhj2fclk7h6ads8r2w7q3j450j
 ## 关于矿友如何查看收益
 1.通过官方钱包查看收益（需要同步钱包高度，不然看不到收益）
 2.通过区块浏览器查看：https://www.chiaexplorer.com/blockchain/address/+钱包地址
+## 关于转账时间
+目前我们实际测试，一笔交易等待节点确认时间需要30s以上，然后官方暂时没有多地址单次交易的api（官方矿池有send_transaction_multi，但是没有开源出来）  
+也就是说一天处理的交易：24*60*2=2880笔
