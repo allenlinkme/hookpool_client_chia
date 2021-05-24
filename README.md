@@ -1,6 +1,6 @@
 # hookpool_client_chia
 Create a fair and just mining pool for chia
-创建一个公平，公正的chia矿池
+创建一个去中心化，爆块收益自动转账的chia矿池，目标就是一起愉快地挖矿
 ## hookpool的目标
 创建一个不需要输入助记词，只需要绑定farmer公钥和pool公钥，然后绑定矿工的钱包地址，做到挖矿收益及时转账，实现一个真正意义上的chia矿池
 
