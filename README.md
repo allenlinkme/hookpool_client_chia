@@ -7,6 +7,7 @@ Create a fair  just and automatic transfer mining pool for chia
   我们矿池钱包地址：xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p 
   可以用区块浏览网站查看矿池收益：  
   [矿池地址区块查看](https://www.chiaexplorer.com/blockchain/address/xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p)  
+  ![avatar](pool_xch.png)
 2.我们矿池不做算力限制，最小转账单位是1mojo，也就是官方的最小转账单位（1mojo=亿万分之一XCH）  
 3.下载打开客户端即可挖矿，我们挖矿软件使用官方api自动绑定当前的官方钱包    
   关于矿池的运作原理，以及为何我们不需要输入助记词，我们后续会用流程图解释下矿池运作原理  
