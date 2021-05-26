@@ -2,9 +2,10 @@
 Create a fair  just and automatic transfer mining pool for chia  
 创建一个简单，快捷，爆块收益自动转账的chia矿池，目标就是一起愉快地挖矿
 ## 为什么选择hookpool
+关于矿池运作原理和收益分配原理 [查看](https://github.com/allenlinkme/hookpool_client_chia/blob/master/pool_detail/pool.md)  
 1.我们矿池采用实时转账的方式，也就是矿池检测到爆块就会自动计算矿工贡献值，程序自动完成收益分配工作  
-  也就是无需提现申请，也杜绝了偷算力的可能，我们也提供我们的矿池钱包地址供矿友们监督： 
-  我们矿池钱包地址：xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p 
+  也就是无需提现申请，也杜绝了偷算力的可能，我们也提供我们的矿池钱包地址供矿友们监督：  
+  我们矿池钱包地址：xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p  
   可以用区块浏览网站查看矿池收益：  
   [矿池地址区块查看](https://www.chiaexplorer.com/blockchain/address/xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p)  
   ![avatar](pool_xch.png)
