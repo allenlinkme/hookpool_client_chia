@@ -4,9 +4,9 @@ Create a fair  just and automatic transfer mining pool for chia
 ## 为什么选择hookpool
 1.我们矿池采用实时转账的方式，也就是矿池检测到爆块就会自动计算矿工贡献值，程序自动完成收益分配工作  
   也就是无需提现申请，也杜绝了偷算力的可能，我们也提供我们的矿池钱包地址供矿友们监督： 
-  我们矿池钱包地址：xch1azy95ut4we8n4afqk35637c6el3vrklhuhj2fclk7h6ads8r2w7q3j450j  
+  我们矿池钱包地址：xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p 
   可以用区块浏览网站查看矿池收益：  
-  [矿池地址区块查看](https://www.chiaexplorer.com/blockchain/address/xch1azy95ut4we8n4afqk35637c6el3vrklhuhj2fclk7h6ads8r2w7q3j450j)  
+  [矿池地址区块查看](https://www.chiaexplorer.com/blockchain/address/xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p)  
 2.我们矿池不做算力限制，最小转账单位是1mojo，也就是官方的最小转账单位（1mojo=亿万分之一XCH）  
 3.下载打开客户端即可挖矿，我们挖矿软件使用官方api自动绑定当前的官方钱包    
   关于矿池的运作原理，以及为何我们不需要输入助记词，我们后续会用流程图解释下矿池运作原理  
@@ -39,7 +39,7 @@ Create a fair  just and automatic transfer mining pool for chia
 3.这个功能同时也测试了矿池检测到收益自动转账  
 4.欢迎各位矿友加入到空投发红包环节，给矿池的矿友发红包  
 5.矿池的空投钱包地址：  
-xch1azy95ut4we8n4afqk35637c6el3vrklhuhj2fclk7h6ads8r2w7q3j450j  
+xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p
 6.欢迎空投这个矿池地址给矿友们发红包，空投不要超过1XCH，不然会触发爆块按算力分配收益，不超过1XCH的空投，则会按照微信红包的规则随机分配收益给矿友
 
 ## 上线公测环节
