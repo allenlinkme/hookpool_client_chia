@@ -39,7 +39,7 @@ Create a fair  just and automatic transfer mining pool for chia
 3.这个功能同时也测试了矿池检测到收益自动转账  
 4.欢迎各位矿友加入到空投发红包环节，给矿池的矿友发红包  
 5.矿池的空投钱包地址：  
-xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p
+xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p  
 6.欢迎空投这个矿池地址给矿友们发红包，空投不要超过1XCH，不然会触发爆块按算力分配收益，不超过1XCH的空投，则会按照微信红包的规则随机分配收益给矿友
 
 ## 上线公测环节
@@ -48,8 +48,14 @@ xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p
 我们提供统一服务器分配任务挖矿，因此有一定的成本，为了能维持下去，我们每次爆块转账时候会收取千分之五的手续费  
 矿池钱包截留1001mojozuo为之后可能要付转账手续费做准备，其余的费用一分都不会收取，每次爆块都第一时间自动分配收益  
 ## 关于矿友如何查看收益
-1.通过官方钱包查看收益（需要同步钱包高度，不然看不到收益）
-2.通过区块浏览器查看：https://www.chiaexplorer.com/blockchain/address/+钱包地址
+1.通过官方钱包查看收益（需要同步钱包高度，不然看不到收益）  
+2.通过区块浏览器查看：https://www.chiaexplorer.com/blockchain/address/+钱包地址  
+3.使用你的First wallet address的地址，我们矿池绑定矿工的是这个地址，发放收益的也是这个地址
+ 查看方法：
+ `chia keys show`
+
+选择对应的钱包指纹的First wallet address
+
 ## 关于转账时间
 目前我们实际测试，一笔交易等待节点确认时间需要30s以上，然后官方暂时没有多地址单次交易的api（官方矿池有send_transaction_multi，但是没有开源出来）  
 也就是说一天处理的交易：
