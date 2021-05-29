@@ -14,6 +14,10 @@
 
 2021年05月29日，我们已经初步有解决方案，我们并没有放弃，新版本目标就是稳定挖矿，只有稳定才有收益
 
+再次提示，先用我们提供的[back_to_solo.bat](https://github.com/allenlinkme/hookpool_client_chia/releases/download/1.0/back_to_solo.bat)，放在挖矿软件daemon文件夹外面，双击运行，即可恢复官方solo  
+
+请参加公测的矿友尽快下载运行切换成官方solo，以免自己挖矿没有收益
+
 
 
 
