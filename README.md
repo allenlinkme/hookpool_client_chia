@@ -10,7 +10,7 @@ Create a fair just and automatic transfer mining pool for chia
    不管你是101G，还是101TB，我们都会按照有效算力进行收益分配，最小收益精度：1mojo(亿万分之一XCH)
    
 3、免配置挖矿
-   使用HookPool矿池操作简单，只需要在CHIA钱包的机器上打开start_pool_mining.bat，并按照提示填写收款钱包地址即可。
+   使用HookPool矿池操作简单，只需要在CHIA钱包的机器上打开start_pool_mining.bat，并按照提示填写收款钱包地址即可（如需恢复SOLO服务，双击clear_pool_service.bat即可）。
     
 4、安全性
    HookPool仅复用官方钱包和相关配置，我们不会保存或窃取任何敏感信息，仅通过证书集群的方式进行收益绑定(后续会公开相关源码)
