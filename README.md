@@ -5,20 +5,20 @@ Create a fair just and automatic transfer mining pool for chia
 ## HookPool能提供的服务
 1、收益即时分配
    当矿池参与者在矿池挖矿有爆块场景，矿池会按照贡献值进行收益分配，并直接通过区块交易转到矿工的收款钱包上。
-   
+
 2、无算力限制
    不管你是101G，还是101TB，我们都会按照有效算力进行收益分配，最小收益精度：1mojo(亿万分之一XCH)
-   
+
 3、免配置挖矿
    使用HookPool矿池操作简单，只需要在CHIA钱包的机器上打开start_pool_mining.bat，并按照提示填写收款钱包地址即可（如需恢复SOLO服务，双击clear_pool_service.bat即可）。
     
 4、安全性
    HookPool仅复用官方钱包和相关配置，我们不会保存或窃取任何敏感信息，仅通过证书集群的方式进行收益绑定(后续会公开相关源码)
-   
+
 5、矿池钱包
   [矿池地址区块查看](https://www.chiaexplorer.com/blockchain/address/xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p)  
   ![avatar](pool_xch.png)
-  
+
 矿池运作原理和收益分配原理 [查看](https://github.com/allenlinkme/hookpool_client_chia/blob/master/pool_detail/pool.md)  
 
 ## 关于官方矿池和双挖看法
@@ -32,6 +32,12 @@ Create a fair just and automatic transfer mining pool for chia
 
 ## 进度
 矿池采用邀请码机制公测中。
+
+目前v2.6版本开放公测
+
+重要提醒：
+
+想要修复官方solo与旧版本冲突的，下载后，双击运行clear_pool_service.bat
 
 ## 空投发红包
 如果有矿友支持我们，可以转入XCH到xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p （不要超过1XCH）。
