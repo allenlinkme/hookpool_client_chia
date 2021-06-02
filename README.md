@@ -37,7 +37,9 @@ Create a fair just and automatic transfer mining pool for chia
 
 重要提醒：
 
-想要修复官方solo与旧版本冲突的，下载后，双击运行clear_pool_service.bat
+1.想要修复官方solo与旧版本冲突的，下载后，双击运行clear_pool_service.bat
+
+2.邀请码与钱包指纹是有绑定关系，分享给他人不能使用
 
 ## 空投发红包
 如果有矿友支持我们，可以转入XCH到xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p （不要超过1XCH）。
