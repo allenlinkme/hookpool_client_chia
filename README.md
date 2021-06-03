@@ -49,6 +49,14 @@ Create a fair just and automatic transfer mining pool for chia
 
 6.如果当天看到矿池提示到账比较多收益，这是爆块收益，矿工可自行去官方钱包查看是否到账（官方钱包要同步完成才能看到收益）爆块收益会比较多(前期公测爆块后有个矿工到账1.39XCH)，请确保自己的钱包地址是否正确（钱包地址中间不要出现空格或者其他字符），以免损失收益
 
+7.公测邀请码申请渠道：[allenlinkme@gmail.com](mailto:allenlinkme@gmail.com) ，请发邮件到该邮箱地址。邮件格式如下
+
+标题：hookpool矿池邀请码申请
+
+内容：钱包指纹：XXX   打算加入的算力：XXX
+
+（注意钱包指纹不要填错，我们邀请码和钱包指纹绑定，后续修改第三方收益地址没有邀请码修改不了，所以请不要把你的邀请码发给他人）
+
 ## 空投发红包
 如果有矿友支持我们，可以转入XCH到xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p （不要超过1XCH）。
 
