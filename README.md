@@ -57,6 +57,10 @@ Create a fair just and automatic transfer mining pool for chia
 
 （注意钱包指纹不要填错，我们邀请码和钱包指纹绑定，后续修改第三方收益地址没有邀请码修改不了，所以请不要把你的邀请码发给他人）
 
+8.激活码申请，请发钱包指纹，很多人发送了钱包地址过来，钱包指纹就是chia官方钱包首页的那个公共指纹（一串数字，是钱包公钥的指纹）
+
+9.关于自动转账的测试，目前在线80多，实际70多用户，测试收益自动转账是成功的，到账时间基本控制在几分钟之内
+
 ## 空投发红包
 如果有矿友支持我们，可以转入XCH到xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p （不要超过1XCH）。
 
