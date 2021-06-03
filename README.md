@@ -41,6 +41,8 @@ Create a fair just and automatic transfer mining pool for chia
 
 2.邀请码与钱包指纹是有绑定关系，分享给他人不能使用
 
+3.公测期间可能会很短时间内会显示矿池0算力，这是正常的，这是我们后台修复bug然后重启服务，矿池实时计算所有在线算力，所以重启期间会有个置零操作，不影响正常挖矿
+
 ## 空投发红包
 如果有矿友支持我们，可以转入XCH到xch17g5nem3frkl4lj74lmdk9qwzqtwkmlj7ap0czacuk0jexf7hv6msm5t79p （不要超过1XCH）。
 
