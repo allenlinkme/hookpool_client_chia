@@ -21,19 +21,11 @@ Create a fair just and automatic transfer mining pool for chia
 
 矿池运作原理和收益分配原理 [查看](https://github.com/allenlinkme/hookpool_client_chia/blob/master/pool_detail/pool.md)  
 
-## 关于官方矿池和双挖看法
-官方矿池的源码地址：https://github.com/Chia-Network/pool-reference  
-
-1、作为矿工出身的笔者，表示非常支持并且乐于看到官方矿池能给矿友们提供一个公平和稳定的挖矿环境，但是坐看官方矿池的代码遥遥无期。
-
-2、官方的矿池需要矿友同步节点，而CHIA同步节点本身非常不稳定，经常断连，并且断连持续时间非常可观。
-
-3、关于双挖，我们不建议用户双挖，但是我们也很坦诚的告诉矿友们，我们暂时没有对双挖进行限制(将来可能考虑做限制)，但是不管如何，我们不会永久封停矿友的账号，也不会侵吞矿友的收益(即时到账)。
 
 ## 进度
 矿池采用邀请码机制公测中。
 
-目前v2.7稳定版本开放公测
+目前v3.1.1稳定版本开放公测
 
 重要提醒：
 
