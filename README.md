@@ -4,8 +4,8 @@ Create a fair just and automatic transfer mining pool for chia
 
 ## HookPool新协议矿池
 1、富池农业合作社地址：https://pool.hookpool.net  
-2、目前新协议矿池在公测中，欢迎加入
-3、安装最新1.2官方钱包，选择农业合作社
+2、目前新协议矿池在公测中，欢迎加入  
+3、安装最新1.2官方钱包，选择农业合作社  
  ![avatar](add_pool1.png)
  ![avatar](add_pool2.png)
 
