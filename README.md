@@ -2,6 +2,13 @@
 Create a fair just and automatic transfer mining pool for chia  
 建立一个非商业化CHIA矿池，与诸多矿友们一起愉快地挖矿。
 
+## HookPool新协议矿池
+1、富池农业合作社地址：https://pool.hookpool.net  
+2、目前新协议矿池在公测中，欢迎加入
+3、安装最新1.2官方钱包，选择农业合作社
+ ![avatar](add_pool1.png)
+ ![avatar](add_pool2.png)
+
 ## HookPool能提供的服务
 1、收益即时分配
    当矿池参与者在矿池挖矿有爆块场景，矿池会按照贡献值进行收益分配，并直接通过区块交易转到矿工的收款钱包上。
